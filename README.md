@@ -11,3 +11,5 @@
 
 Hi, I'm **David** 👋 <br/>
 An experienced Front-end Developer with 6 years expertise in crafting clean, user-centric code for large big company projects. While primarily focused on front-end, gained practical exposure to back-end servers and databases.
+<br/><br/>
+Have an interesting project? I'm always open to new projects and experiences, so let's connect!
