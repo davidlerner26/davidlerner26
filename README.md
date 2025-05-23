@@ -1,7 +1,7 @@
 Hi 👋 My name is David Lerner
 =============================
 
-Senior Frontend Developer
+Senior Software Developer
 -------------------------
 
 An experienced Front-end Developer with 7 years expertise in crafting clean, user-centric code for large big company projects. While primarily focused on front-end, gained practical exposure to back-end servers and databases.
