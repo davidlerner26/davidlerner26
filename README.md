@@ -1,10 +1,10 @@
 Hi 👋 My name is David Lerner
 =============================
 
-Senior Software Developer
+Senior Frontend Engineer
 -------------------------
 
-An experienced Front-end Developer with 7 years expertise in crafting clean, user-centric code for large big company projects. While primarily focused on front-end, gained practical exposure to back-end servers and databases.
+An experienced Front-end Developer with 8 years expertise in crafting clean, user-centric code for large big company projects. While primarily focused on front-end, gained practical exposure to back-end servers and databases.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil<!--🖥️  See my portfolio at [test.com](http://test.com)-->
 * ✉️  You can contact me at [david.lerner@hotmail.com](mailto:david.lerner@hotmail.com)
