@@ -9,7 +9,7 @@ An experienced Front-end Developer with 8 years expertise in crafting clean, use
 * 🌍  I'm based in Rio de Janeiro, Brazil<!--🖥️  See my portfolio at [test.com](http://test.com)-->
 * ✉️  You can contact me at [david.lerner@hotmail.com](mailto:david.lerner@hotmail.com)
 * 🚀  I'm currently working on [a site to find beauty saloons near you](http://github.com/davidlerner26/find-your-beauty)
-* 🧠  I'm learning Python
+* 🧠  I'm learning [Gatsby](https://www.gatsbyjs.com)
 * 🤝  I'm open to collaborating on interesting projects, so let's connect!
 
 ### Skills
