@@ -1,4 +1,4 @@
-Hi 👋 My name is David Lerner
+Hi 👋 My name is David Alves
 =============================
 
 Senior Frontend Engineer
@@ -7,7 +7,7 @@ Senior Frontend Engineer
 An experienced Front-end Developer with 8 years expertise in crafting clean, user-centric code for large big company projects. While primarily focused on front-end, gained practical exposure to back-end servers and databases.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil<!--🖥️  See my portfolio at [test.com](http://test.com)-->
-* ✉️  You can contact me at [david.lerner@hotmail.com](mailto:david.lerner@hotmail.com)
+* ✉️  You can contact me at [davidalvesdelacerda@gmail.com](mailto:davidalvesdelacerda@gmail.com)
 * 🚀  I'm currently working on 2 sites: a site to [find makeup artists near you](http://github.com/davidlerner26/find-your-beauty) and another to [add products from different sites into your own wishlist](https://github.com/davidlerner26/choose-a-club)
 * 🧠  I'm learning [Gatsby](https://www.gatsbyjs.com)
 * 🤝  I'm open to collaborating on interesting projects, so let's connect!
